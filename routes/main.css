@@ -1,0 +1,76 @@
+html {
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+  font-size: 18px;
+  margin: 0 auto;
+  --brand-color: aquamarine;
+}
+
+h1 {
+  font-size: 2.25rem;
+  line-height: 1.12;
+  font-weight: 800;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 1.34;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+h4 {
+  line-height: 1.5;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: teal;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+header {
+  background-color: var(--brand-color);
+  color: green;
+  font-weight: bold;
+  font-size: 50px;
+  padding: 1.5em 1em 1em 1em;
+}
+
+main {
+  padding: 1em;
+}
+
+footer {
+  background-color: var(--brand-color);
+  padding: 2em 1em;
+  margin-top: 3em;
+}
+
+header > div,
+main,
+footer > div {
+  width: 100%;
+  max-width: 30rem;
+  margin: 0 auto;
+}
