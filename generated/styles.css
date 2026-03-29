@@ -1,4 +1,0 @@
-@layer preflight, main;
-
-@import "preflight.css" layer(preflight);
-@import "main.css" layer(main);
