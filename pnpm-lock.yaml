@@ -9,20 +9,20 @@ importers:
   .:
     dependencies:
       '@mastrojs/markdown':
-        specifier: jsr:@mastrojs/markdown@^0
+        specifier: jsr:^0.1.5
         version: '@jsr/mastrojs__markdown@0.1.5'
       '@mastrojs/mastro':
-        specifier: jsr:^0
+        specifier: jsr:^0.7.15
         version: '@jsr/mastrojs__mastro@0.7.15'
       '@remix-run/node-fetch-server':
-        specifier: ^0.11
+        specifier: ^0.11.0
         version: 0.11.0
     devDependencies:
       '@types/node':
-        specifier: ^24
+        specifier: ^24.12.0
         version: 24.12.0
       typescript:
-        specifier: ^5
+        specifier: ^5.9.3
         version: 5.9.3
 
 packages:
