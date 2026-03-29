@@ -23,7 +23,9 @@ jobs:
         with:
           node-version: 24
           cache: "pnpm"
-      - name: Install dependencies
+      - name: Install dependencies 1
+        run: pnpm --version
+      - name: Install dependencies 2
         run: pnpm install
 
       - name: Build static site
