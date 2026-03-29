@@ -28,13 +28,13 @@ importers:
 packages:
 
   '@jsr/mastrojs__markdown@0.1.5':
-    resolution: {integrity: sha512-r0pxs3fF54z50Rk6aqLeK6GSvpfNWRPf691bH9EWkomFz9Tk93sRXwatGLOyUhVXNtaVNGmeIWL5fn1DS0nsYw==}
+    resolution: {integrity: sha512-r0pxs3fF54z50Rk6aqLeK6GSvpfNWRPf691bH9EWkomFz9Tk93sRXwatGLOyUhVXNtaVNGmeIWL5fn1DS0nsYw==, tarball: https://npm.jsr.io/~/11/@jsr/mastrojs__markdown/0.1.5.tgz}
 
   '@jsr/mastrojs__mastro@0.7.15':
-    resolution: {integrity: sha512-YEW5zucaUDnfTIH/qZSFEmS0deVa15G1m8SvLy3pqEgWGqOBXH/E2ub3y9yIVLz4PqiKi/0cAzSlHG1qiie/CQ==}
+    resolution: {integrity: sha512-YEW5zucaUDnfTIH/qZSFEmS0deVa15G1m8SvLy3pqEgWGqOBXH/E2ub3y9yIVLz4PqiKi/0cAzSlHG1qiie/CQ==, tarball: https://npm.jsr.io/~/11/@jsr/mastrojs__mastro/0.7.15.tgz}
 
   '@jsr/std__media-types@1.1.0':
-    resolution: {integrity: sha512-dHvaxHL7ENWnltgL653uo3KnKFse3ZbopZop2gqsT7yrscx7irZEClu5Cba7gMPPRk4Lg1FbriNcaBViM2RSBw==}
+    resolution: {integrity: sha512-dHvaxHL7ENWnltgL653uo3KnKFse3ZbopZop2gqsT7yrscx7irZEClu5Cba7gMPPRk4Lg1FbriNcaBViM2RSBw==, tarball: https://npm.jsr.io/~/11/@jsr/std__media-types/1.1.0.tgz}
 
   '@remix-run/node-fetch-server@0.11.0':
     resolution: {integrity: sha512-nCrFHVxDFioSHc0g/3m5ztwgjBt7g8qh/UwmYkDjuMePKFepMKfNGgH5S6L7iXKX+jUrf3ooVmhx3NGIoa9iYA==}
